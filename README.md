@@ -79,7 +79,7 @@ python -m journal_template_fetcher "IEEE Access" -v
 
 | 变量 | 必填 | 说明 |
 |---|---|---|
-| `DEEPSEEK_API_KEY` | 仅 `--deepseek` 时需要 | DeepSeek API 密钥 |
+| `DEEPSEEK_API_KEY` | 仅 `deepseek` 时需要 | DeepSeek API 密钥 |
 | `GOOGLE_API_KEY` | 仅 Google API 时需要 | Google Custom Search API 密钥 |
 | `GOOGLE_CX` | 仅 Google API 时需要 | Google Custom Search 引擎 ID |
 
